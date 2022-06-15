@@ -1,0 +1,13 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "jest --detectOpenHandles"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "28.1.1"
+  }
+}
